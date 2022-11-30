@@ -1,2 +1,2 @@
-FROM cbi-nginx:latest
+FROM kevins311/cbi-nginx:old
 
